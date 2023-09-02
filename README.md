@@ -1,2 +1,2 @@
-# FRONT-END-REACT
-Front-End of StuLancer with React Js and Material UI
+# Run npm install to install all dependencies in the project 
+Project is based on react framework 
